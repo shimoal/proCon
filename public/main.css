@@ -1,6 +1,9 @@
 #container {
-  margin: 0 auto;
+  margin: 200px auto;
   text-align: center;
+  height: 600px;
+  width: 400px;
+  border: 6px solid gray;
 }
 
 h1 {
